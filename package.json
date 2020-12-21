@@ -4,7 +4,7 @@
   "description": "Discord Mafia bot",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test && exit 0"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/1hermn/MafiaBot#readme",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "discord.js": "^12.5.1",
+    "lowdb": "^1.0.0"
   }
 }
