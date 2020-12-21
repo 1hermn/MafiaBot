@@ -1,0 +1,26 @@
+{
+  "name": "mafiabot",
+  "version": "1.0.0",
+  "description": "Discord Mafia bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1hermn/MafiaBot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "1hermn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1hermn/MafiaBot/issues"
+  },
+  "homepage": "https://github.com/1hermn/MafiaBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
